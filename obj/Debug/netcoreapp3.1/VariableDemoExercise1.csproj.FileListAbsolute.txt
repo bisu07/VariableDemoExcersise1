@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.exe
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.deps.json
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.dll
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\bin\Debug\netcoreapp3.1\VariableDemoExercise1.pdb
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.dll
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.pdb
+C:\Users\bishal\Desktop\repos\VariableDemoExercise1\VariableDemoExercise1\obj\Debug\netcoreapp3.1\VariableDemoExercise1.genruntimeconfig.cache
